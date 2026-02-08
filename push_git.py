@@ -1,1 +1,1 @@
-print("push code to git")
+print("push code to github")
